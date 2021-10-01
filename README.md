@@ -29,13 +29,13 @@ For each scene, the following data and metadata are provided:
 For each avatar, the following labels and metadata are provided:
 
 * `color`: normalized RGB value in the corresponding instance segmentation
-* `keypoints`: 2D keypoints in standard COCO format. Keypoints are assigned a visibility of `0`, `1`, or `2`, depending on whether they [0] not in the image frame, [1] in the image frame but occluded, or [2] visibile.
+* `keypoints`: 2D keypoints in standard COCO format. Keypoints are assigned a visibility of `0`, `1`, or `2`, depending on whether they are [0] not in the image frame, [1] in the image frame but occluded, or [2] visibile.
 * `keypoints_3d`: 3D keypoints. The format is the same as `keypoints` but visibility integers are replaced with floats representing absolute depth from camera.
 * `num_keypoints`: number of keypoints present in the image (occluded or not)
 * `segmentation`: polygon segmentation in standard COCO format
 * `area`: area enclosed by polygon segmentation
 * `bbox`: bounding box in standard COCO format
-* `cuboid points`: image coordinates of the 3D cuboid surrounding the SMPL-X body model, with axes are parallel to the global coordinate system. The order of the cuboid points is shown below.
+* `cuboid_points`: image coordinates of the 3D cuboid surrounding the SMPL-X body model, with axes that are parallel to the global coordinate system. The order of the cuboid points is shown below.
 
 ```
    3-------2

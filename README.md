@@ -1,4 +1,4 @@
-# InfiniteForm: A synthetic open source dataset for fitness applications
+# InfiniteForm: A synthetic, minimal bias dataset for fitness applications
 
 ![InfintiteForm Examples](./images/fig1.png)
 

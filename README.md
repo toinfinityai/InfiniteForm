@@ -64,7 +64,7 @@ We note that nose and ear keypoints are not included, since they are not explici
 Do you want additional exercise poses? Different camera angles? New labels? More clothing variety? Or any other changes?   
 Get in touch! We can generate data to fit your exact needs. 
 
-Contact email: [infiniteform@edgeanalytics.io](mailto:infiniteform@edgeanalytics.io)
+Contact email: [info@toinfinity.ai](mailto:info@toinfinity.ai)
 
 
 ## Terms and Conditions
